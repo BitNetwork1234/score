@@ -1,4 +1,4 @@
-<a href="https://boltons.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat"></a>
+<a href="https://lawrencetech.online"><img src="https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat"></a>
 
 # PHP mySQL Score Keeper
 
